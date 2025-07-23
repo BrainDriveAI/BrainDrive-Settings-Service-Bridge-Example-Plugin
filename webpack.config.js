@@ -11,8 +11,8 @@ module.exports = {
   mode: "development",
   entry: "./src/index",
   output: {
-    //path: path.resolve(__dirname, 'dist'),
-    path: path.resolve(__dirname, '/home/hacker/BrainDriveDev/BrainDrive/backend/plugins/shared/ServiceExample_Settings/v1.0.0/dist'),
+    path: path.resolve(__dirname, 'dist'),
+    //path: path.resolve(__dirname, '/your braindrive dev/BrainDrive/backend/plugins/shared/ServiceExample_Settings/v1.0.0/dist'),
     publicPath: "auto",
     clean: true,
     library: {
