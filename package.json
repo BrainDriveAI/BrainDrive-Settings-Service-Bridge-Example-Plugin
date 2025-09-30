@@ -1,6 +1,6 @@
 {
   "name": "service-example-settings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BrainDrive Settings Service Example - Demonstrates Settings Service usage for configuration management",
   "main": "dist/remoteEntry.js",
   "scripts": {

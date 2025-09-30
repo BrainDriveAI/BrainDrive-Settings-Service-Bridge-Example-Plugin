@@ -101,7 +101,7 @@ class ServiceExampleSettingsLifecycleManager(BaseLifecycleManager):
         self.plugin_data = {
             "name": "ServiceExample_Settings",
             "description": "Simple example demonstrating Settings Service usage for configuration management",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "frontend",
             "icon": "Settings",
             "category": "examples",
@@ -116,8 +116,8 @@ class ServiceExampleSettingsLifecycleManager(BaseLifecycleManager):
             "plugin_slug": "ServiceExample_Settings",
             # Update tracking fields (matching plugin model)
             "source_type": "github",
-            "source_url": "https://github.com/DJJones66/ServiceExample_Settings",
-            "update_check_url": "https://api.github.com/repos/DJJones66/ServiceExample_Settings/releases/latest",
+            "source_url": "https://github.com/BrainDriveAI/BrainDrive-Settings-Service-Bridge-Example-Plugin",
+            "update_check_url": "https://api.github.com/repos/BrainDriveAI/BrainDrive-Settings-Service-Bridge-Example-Plugin/releases/latest",
             "last_update_check": None,
             "update_available": False,
             "latest_version": None,
