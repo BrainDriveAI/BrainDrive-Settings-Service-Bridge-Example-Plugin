@@ -1,3 +1,7 @@
+> ⚠️ **This repository has been archived.** BrainDrive has evolved into the [Personal AI Architecture](https://personalaiarchitecture.org) — an MIT-licensed, open architecture for building personal AI systems with zero lock-in. See the [new repo](https://github.com/Personal-AI-Architecture/the-architecture) for the latest work.
+
+---
+
 # ServiceExample_Settings - BrainDrive Settings Service Bridge Demo
 
 A working demonstration plugin for BrainDrive's Settings Service Bridge functionality. This plugin showcases persistent configuration management within the BrainDrive platform through an interactive theme selector that demonstrates comprehensive error handling and best practices.
